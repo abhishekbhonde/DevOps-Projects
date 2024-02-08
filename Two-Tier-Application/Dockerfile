@@ -1,3 +1,5 @@
+## Docker file to build the image for the application
+
 FROM python:3.9-slim
 
 WORKDIR /app
