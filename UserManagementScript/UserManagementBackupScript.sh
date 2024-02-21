@@ -1,3 +1,6 @@
+## THIS IS A SCRIPT FOR THE USER MANAGEMENT.
+
+
 #!/bin/bash
 
 # User Management and Backup Script
